@@ -600,6 +600,7 @@
                                                         </ul><!-- ends .atbd_upper_badge -->
                                                     </div><!-- ends: .atbd_thumbnail_overlay_content -->
                                                 </figure><!-- ends: .atbd_listing_thumbnail_area -->
+
                                                 <div class="atbd_listing_info">
                                                     <div class="atbd_content_upper">
                                                         <h4 class="atbd_listing_title">
